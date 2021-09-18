@@ -1,0 +1,7 @@
+{
+    "name": "sakirhossn/contact-form-php",
+    "description": "This is a custom contact page of a simple website. Where user's query regarding the website will be sent site owner via mail using PHPMailer library. This mail body is fully customized",
+    "require": {
+        "php": ">=7.4"
+    }
+}
